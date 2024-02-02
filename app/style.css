@@ -1,0 +1,16 @@
+@media (min-width: 1000px) {
+  .headerDivFlex {
+    display: flex;
+    justify-content: space-between;
+  }
+  #buttonWidth {
+    background: #2200ff;
+    width: 86px;
+  }
+}
+
+@media (max-width: 600px) {
+  #InputboxMedia {
+    width: 200px;
+  }
+}
